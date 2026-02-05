@@ -94,7 +94,6 @@ function getAARUCareNavbar() {
             <a href="index.html" class="navbar-logo navbar-aarucare-logo">
                 <img src="images/ventures/aaru-care.png" alt="AARU CARE" class="navbar-subbrand-logo-img navbar-aarucare-logo-img">
             </a>
-            <a href="ventures.html" class="navbar-subbrand-back navbar-aarucare-back">← Back</a>
         </nav>
     </header>
     `;
